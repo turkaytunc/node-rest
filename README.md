@@ -1,1 +1,1 @@
-# restApi project
+# rest-api-practice-frontend-mock
